@@ -1,3 +1,2 @@
 # example-repo
-
-Hey I made a change here!!!
+This is an example
